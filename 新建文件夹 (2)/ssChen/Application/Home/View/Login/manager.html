@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>后台管理</title>
+
+<link rel="stylesheet" href="__ADMINCSS__/main.css" >
+
+<link rel="stylesheet" href="__ADMINCSS__/validate.css">
+
+<script type="text/javascript" src="__ADMINJS__/jquery.js"></script>
+
+<script type="text/javascript" src="__ADMINJS__/common.js"></script>
+
+<script type="text/javascript" src="__ADMINJS__/validate.js"></script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>管理员列表 <a href="{:U('Login/addmanager')}">添加管理员</a></h1>
+
+<table cellpadding="3" cellspacing="1" align="center" class="box">
+
+<tr>
+
+<th width="60">ID</th>
+
+<th>管理员名称</th>
+
+<th width="180">组别</th>
+<th >社团</th>
+
+<th width="180">相关操作</th>
+
+</tr>
+
+ <volist name='select' id='vo'>
+
+   <tr class="list">
+
+    <td align="center">{$vo.id}</td>
+
+    <td align="center">{$vo.username}</td>
+
+    <td align="center">{$vo.limit}</td>
+    
+    <td align="center">{$vo.org}</td>
+
+    <td align="center"><a href="{:U('login/changepwd')}?id={$vo.id}">修改密码</a>&nbsp<a href="{:U('login/delmanager')}?id={$vo.id}"  onclick=" return confirm('确定要删除吗？')">删除</a></td>
+
+   </tr>
+
+ </volist>
+
+</table>
+
+<div> {$page}</div>
+
+</div>
+
+</body>
+
+</html>
+

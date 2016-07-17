@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* reset */
+body{background:#46a2cf;font-size:12px;}
+a { color:#000; text-decoration:none;}
+a:hover{ color:#000; text-decoration:underline;}
+#login{width:500px;height:300px; background-color:#FFF;border:#a2dbf7 3px solid;position:absolute; top:50%;left:50%; 
+margin:-155px 0 0 -244px;} 
+h1{height:90px;width:400px;background:url(../images/login_logo.png) no-repeat;margin:20px 0 0 45px;padding:0px;}
+.input{border:1px #d2d2d2 solid;padding:3px;line-height:21px; height:21px;width:200px;}
+.btn{width:83px;height:75px;border:0;background:url(../images/login_submit.gif);cursor:pointer}

@@ -1,0 +1,3513 @@
+[ 2016-06-07T21:05:29+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001393s ]
+
+[ 2016-06-07T21:06:54+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2016-06-07T21:07:48+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 6 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058997s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001428s ]
+
+[ 2016-06-07T21:10:09+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 6 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012477s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001375s ]
+
+[ 2016-06-07T21:13:24+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001409s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 6 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001422s ]
+
+[ 2016-06-07T21:16:42+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002068s ]
+
+[ 2016-06-07T21:16:43+08:00 ] ::1 /ssChen/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 8 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001407s ]
+
+[ 2016-06-07T21:18:22+08:00 ] ::1 /ssChen/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012077s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001413s ]
+
+[ 2016-06-07T21:19:05+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001409s ]
+
+[ 2016-06-07T21:19:32+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001300s ]
+
+[ 2016-06-07T21:21:51+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000423s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001975s ]
+
+[ 2016-06-07T21:22:57+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001663s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001376s ]
+
+[ 2016-06-07T21:23:54+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001401s ]
+
+[ 2016-06-07T21:27:21+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001498s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000435s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027854s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001391s ]
+
+[ 2016-06-07T21:27:45+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001536s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001506s ]
+
+[ 2016-06-07T21:28:09+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029480s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001583s ]
+
+[ 2016-06-07T21:29:40+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000429s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002447s ]
+
+[ 2016-06-07T21:29:54+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002142s ]
+
+[ 2016-06-07T21:29:55+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002722s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000282s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000498s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001952s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2016-06-07T21:30:14+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002741s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001407s ]
+
+[ 2016-06-07T21:30:26+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001335s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001383s ]
+
+[ 2016-06-07T21:30:43+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001315s ]
+
+[ 2016-06-07T21:30:43+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001645s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001585s ]
+
+[ 2016-06-07T21:30:44+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001567s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001391s ]
+
+[ 2016-06-07T21:37:03+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001295s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001895s ]
+
+[ 2016-06-07T21:38:13+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000247s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001281s ]
+
+[ 2016-06-07T21:39:11+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000251s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001360s ]
+
+[ 2016-06-07T21:39:23+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001928s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000243s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000364s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001366s ]
+
+[ 2016-06-07T21:39:25+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000337s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000572s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002567s ]
+
+[ 2016-06-07T21:40:08+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000306s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000473s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2016-06-07T21:40:14+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000250s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000374s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002035s ]
+
+[ 2016-06-07T21:40:40+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001522s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000271s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000410s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001541s ]
+
+[ 2016-06-07T21:43:05+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000269s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000409s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001425s ]
+
+[ 2016-06-07T21:43:18+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000269s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001380s ]
+
+[ 2016-06-07T21:54:10+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002189s ]
+
+[ 2016-06-07T21:55:50+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000378s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001389s ]
+
+[ 2016-06-07T21:56:11+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001646s ]
+
+[ 2016-06-07T21:57:53+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001965s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000987s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001336s ]
+
+[ 2016-06-07T21:58:53+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003163s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001437s ]
+
+[ 2016-06-07T21:59:49+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001743s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002115s ]
+
+[ 2016-06-07T22:01:24+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002989s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003061s ]
+
+[ 2016-06-07T22:01:33+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001741s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002990s ]
+
+[ 2016-06-07T22:03:13+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001930s ]
+
+[ 2016-06-07T22:03:15+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001672s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001920s ]
+
+[ 2016-06-07T22:06:04+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003808s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001530s ]
+
+[ 2016-06-07T22:06:05+08:00 ] ::1 /ssChen/index.php/Home/img/back.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+
+[ 2016-06-07T22:07:47+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002044s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001546s ]
+
+[ 2016-06-07T22:07:48+08:00 ] ::1 /ssChen/index.php/Home/img/back.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+
+[ 2016-06-07T22:07:49+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002707s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000216s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000412s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018780s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002121s ]
+
+[ 2016-06-07T22:07:49+08:00 ] ::1 /ssChen/index.php/Home/img/back.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+
+[ 2016-06-07T22:07:54+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003191s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000429s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2016-06-07T22:07:56+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003225s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000213s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000398s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027345s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001756s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001996s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004173s ]
+
+[ 2016-06-07T22:07:56+08:00 ] ::1 /ssChen/index.php/Home/img/back.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+
+[ 2016-06-07T22:09:05+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002289s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002258s ]
+
+[ 2016-06-07T22:09:35+08:00 ] ::1 /ssChen/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002554s ]
+
+[ 2016-06-07T22:10:10+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002545s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000361s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013502s ]
+
+[ 2016-06-07T22:12:17+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002806s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001624s ]
+
+[ 2016-06-07T22:12:43+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001685s ]
+
+[ 2016-06-07T22:17:48+08:00 ] ::1 /ssChen/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001578s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002444s ]
+
+[ 2016-06-07T22:17:51+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000371s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033543s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001352s ]
+
+[ 2016-06-07T22:18:22+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034631s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001358s ]
+
+[ 2016-06-07T22:18:32+08:00 ] ::1 /ssChen/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001991s ]
+
+[ 2016-06-07T22:18:39+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001808s ]
+
+[ 2016-06-07T22:19:29+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000264s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2016-06-07T22:19:57+08:00 ] ::1 /ssChen/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001398s ]
+
+[ 2016-06-07T22:19:59+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013223s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001371s ]
+
+[ 2016-06-07T22:20:04+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001721s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'login'
+
+[ 2016-06-07T22:21:04+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002712s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'login'
+
+[ 2016-06-07T22:21:10+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'login'
+
+[ 2016-06-07T22:23:28+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'login'
+
+[ 2016-06-07T22:23:45+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001829s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000413s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002758s ]
+
+[ 2016-06-07T22:23:45+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002292s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0321s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 26 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Application/Home/View/Index/registerpro.html
+
+[ 2016-06-07T22:30:01+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001910s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0036s ]
+SQL: INSERT INTO `de_login` (`account`,`password`,`legal`) VALUES ('13140110068','202cb962ac59075b964b07152d234b70','0') [ RunTime:0.2296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001690s ]
+
+[ 2016-06-07T22:30:27+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001629s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0038s ]
+SQL: INSERT INTO `de_login` (`account`,`password`,`legal`) VALUES ('13140110068','5f4dcc3b5aa765d61d8327deb882cf99','0') [ RunTime:0.1692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001897s ]
+
+[ 2016-06-07T22:30:29+08:00 ] ::1 /ssChen/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000912s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001898s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000423s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026862s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002127s ]
+
+[ 2016-06-07T22:32:59+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002056s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000385s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001406s ]
+
+[ 2016-06-07T22:33:13+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003043s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=13140110068 ) LIMIT 1   [ RunTime:0.0457s ]
+SQL: INSERT INTO `de_login` (`account`,`password`,`legal`) VALUES ('13140110068','202cb962ac59075b964b07152d234b70','0') [ RunTime:0.1663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002210s ]
+
+[ 2016-06-07T22:33:51+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037118s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001661s ]
+
+[ 2016-06-07T22:51:00+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002754s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002592s ]
+
+[ 2016-06-07T22:51:04+08:00 ] ::1 /ssChen/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001800s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071407s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001638s ]
+
+[ 2016-06-07T22:51:10+08:00 ] ::1 /ssChen/index.php/Home/Index/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000394s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001387s ]
+
+[ 2016-06-07T22:51:42+08:00 ] ::1 /ssChen/index.php/Home/Index/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001536s ]
+
+[ 2016-06-07T22:51:43+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+ERR: 非法操作:loginpro
+
+[ 2016-06-07T23:01:36+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 43 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001516s ]
+
+[ 2016-06-07T23:01:41+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002136s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: INSERT INTO `de_login` (`account`,`password`,`legal`) VALUES ('123','202cb962ac59075b964b07152d234b70','0') [ RunTime:0.2055s ]
+
+[ 2016-06-07T23:01:42+08:00 ] ::1 /ssChen/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002909s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001427s ]
+
+[ 2016-06-07T23:01:47+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001523s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `de_login` WHERE ( password="123" and password="123" ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-07T23:01:51+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `de_login` WHERE ( password="123" and password="123" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-06-07T23:02:29+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002538s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `de_login` WHERE ( password="password" and password="password" ) LIMIT 1   [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002260s ]
+
+[ 2016-06-07T23:02:37+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001502s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `de_login` WHERE ( password="123" and password="123" ) LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002160s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002357s ]
+
+[ 2016-06-07T23:04:09+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003124s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1054:Unknown column 'accoun' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `de_login` WHERE ( accoun="password" and password="password" ) LIMIT 1  
+ERR: 1054:Unknown column 'accoun' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `de_login` WHERE ( accoun="password" and password="password" ) LIMIT 1  
+
+[ 2016-06-07T23:04:28+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001821s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="123" and password="password" ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001928s ]
+
+[ 2016-06-07T23:04:32+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001572s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="123" and password="password" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002236s ]
+
+[ 2016-06-07T23:05:31+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001294s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="123" and password="123" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-06-07T23:06:04+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="123" and password="5f4dcc3b5aa765d61d8327deb882cf99" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-06-07T23:06:07+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001908s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="123" and password="5f4dcc3b5aa765d61d8327deb882cf99" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-06-07T23:06:45+08:00 ] ::1 /ssChen/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001724s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 50 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002058s ]
+
+[ 2016-06-07T23:06:50+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001334s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=123 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-07T23:06:56+08:00 ] ::1 /ssChen/index.php/Home/Index/registerpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=1234 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: INSERT INTO `de_login` (`account`,`password`,`legal`) VALUES ('1234','81dc9bdb52d04dc20036dbd8313ed055','0') [ RunTime:0.1912s ]
+
+[ 2016-06-07T23:06:57+08:00 ] ::1 /ssChen/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001414s ]
+
+[ 2016-06-07T23:07:02+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001219s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=1234 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="1234" and password="81dc9bdb52d04dc20036dbd8313ed055" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-06-07T23:07:31+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=1234 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="1234" and password="5f4dcc3b5aa765d61d8327deb882cf99" ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-07T23:07:55+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=1234 ) LIMIT 1   [ RunTime:0.0802s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="1234" and password="5f4dcc3b5aa765d61d8327deb882cf99" ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-07T23:08:00+08:00 ] ::1 /ssChen/index.php/Home/Index/loginpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002326s ]
+SQL: SHOW COLUMNS FROM `de_login` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `de_login` WHERE ( account=1234 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `de_login` WHERE ( account="1234" and password="81dc9bdb52d04dc20036dbd8313ed055" ) LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2016-06-07T23:08:01+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+ERR: 非法操作:home
+
+[ 2016-06-07T23:10:41+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001385s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000492s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000624s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002869s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+ERR: 非法操作:css
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001930s ]
+ERR: 非法操作:css
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004834s ]
+ERR: 非法操作:css
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003281s ]
+ERR: 非法操作:css
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001765s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/css/responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017756s ]
+ERR: 非法操作:css
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/smoothscroll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/jquery.parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002235s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/gmaps.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002101s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/coundown-timer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000432s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001757s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/jquery.scrollTo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002074s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/jquery.nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001584s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/slider/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/event/event1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/slider/bg3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/watch.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/slider/bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/event/event2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/event/event3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twitter/twitter2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/guitar2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/guitar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twitter/twitter1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/js/gmaps.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001801s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twitter/twitter3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2016-06-07T23:10:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/js/smoothscroll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001520s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor6.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/ear-piece.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/js/jquery.parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002206s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/js/coundown-timer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001934s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/js/jquery.scrollTo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/js/jquery.nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:10:43+08:00 ] ::1 /ssChen/index.php/Home/Index/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+ERR: 非法操作:js
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001294s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000609s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000742s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002503s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/slider/bg3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/slider/bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/event/event1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/slider/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/watch.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/event/event2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/guitar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/event/event3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2016-06-07T23:15:41+08:00 ] ::1 /ssChen/index.php/Home/Index/images/guitar2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twitter/twitter2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twitter/twitter3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/twitter/twitter1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/ear-piece.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2016-06-07T23:15:42+08:00 ] ::1 /ssChen/index.php/Home/Index/images/sponsor/sponsor6.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2016-06-07T23:15:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+
+[ 2016-06-07T23:15:43+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+
+[ 2016-06-07T23:15:45+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2016-06-07T23:16:50+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000849s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000989s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002373s ]
+
+[ 2016-06-07T23:16:53+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2016-06-07T23:16:53+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2016-06-07T23:16:55+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2016-06-07T23:17:24+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001987s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000912s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073657s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002750s ]
+
+[ 2016-06-07T23:17:25+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+
+[ 2016-06-07T23:17:25+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2016-06-07T23:17:26+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000837s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001587s ]
+
+[ 2016-06-07T23:17:27+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2016-06-07T23:17:28+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2016-06-07T23:17:28+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2016-06-07T23:17:29+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+
+[ 2016-06-07T23:19:33+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000639s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000764s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003252s ]
+
+[ 2016-06-07T23:19:35+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2016-06-07T23:19:35+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2016-06-07T23:19:36+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2016-06-07T23:20:51+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000667s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000795s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001700s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003264s ]
+
+[ 2016-06-07T23:20:54+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000574s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+
+[ 2016-06-07T23:20:55+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2016-06-07T23:21:05+08:00 ] ::1 /ssChen/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 7 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2016-06-07T23:21:51+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001389s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000633s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000765s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001469s ]
+
+[ 2016-06-07T23:21:53+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2016-06-07T23:21:53+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2016-06-07T23:21:54+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-06-07T23:28:01+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002076s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000640s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000764s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002099s ]
+
+[ 2016-06-07T23:28:13+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+
+[ 2016-06-07T23:28:13+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+
+[ 2016-06-07T23:28:14+08:00 ] ::1 /ssChen/index.php/Home/Index/images/map-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+
+[ 2016-06-07T23:28:35+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000627s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000753s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002339s ]
+
+[ 2016-06-07T23:29:03+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000710s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000840s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002643s ]
+
+[ 2016-06-07T23:29:04+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2016-06-07T23:29:34+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000631s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000758s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002567s ]
+
+[ 2016-06-07T23:29:34+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000938s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001431s ]
+
+[ 2016-06-07T23:29:39+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001709s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001004s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001855s ]
+
+[ 2016-06-07T23:29:39+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2016-06-07T23:32:21+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000639s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000762s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062329s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007900s ]
+
+[ 2016-06-07T23:32:21+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-06-07T23:32:24+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001214s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000666s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000793s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001438s ]
+
+[ 2016-06-07T23:32:25+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2016-06-07T23:32:28+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000692s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000816s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002004s ]
+
+[ 2016-06-07T23:32:28+08:00 ] ::1 /ssChen/index.php/Home/Index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2016-06-07T23:34:17+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000635s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000768s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002713s ]
+
+[ 2016-06-07T23:36:06+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002029s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000638s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000767s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004240s ]
+
+[ 2016-06-07T23:36:40+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001385s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000661s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000796s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002118s ]
+
+[ 2016-06-07T23:36:44+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000783s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059249s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001333s ]
+
+[ 2016-06-07T23:37:19+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002693s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000632s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000760s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002775s ]
+
+[ 2016-06-07T23:38:59+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000639s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000767s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002052s ]
+
+[ 2016-06-07T23:39:14+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002100s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000665s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000822s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001741s ]
+
+[ 2016-06-07T23:39:27+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000627s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000751s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050136s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001978s ]
+
+[ 2016-06-07T23:42:40+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000874s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002614s ]
+
+[ 2016-06-07T23:45:44+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000746s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002983s ]
+
+[ 2016-06-07T23:46:04+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000666s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052462s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001772s ]
+
+[ 2016-06-07T23:46:06+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002191s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000651s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000784s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2016-06-07T23:47:58+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000835s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002215s ]
+
+[ 2016-06-07T23:48:01+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001323s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000631s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000755s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056686s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002365s ]
+
+[ 2016-06-07T23:48:24+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000808s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001752s ]
+
+[ 2016-06-07T23:48:54+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003265s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000679s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000916s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002309s ]
+
+[ 2016-06-07T23:49:33+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000662s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000815s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002675s ]
+
+[ 2016-06-07T23:49:57+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000710s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000883s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051966s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002445s ]
+
+[ 2016-06-07T23:50:20+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001933s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000985s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003559s ]
+
+[ 2016-06-07T23:52:44+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000757s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000912s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057858s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004905s ]
+
+[ 2016-06-07T23:53:49+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000635s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000771s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002360s ]
+
+[ 2016-06-07T23:53:51+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000636s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000773s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001477s ]
+
+[ 2016-06-07T23:54:35+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000644s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000784s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002065s ]
+
+[ 2016-06-07T23:54:37+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001616s ]
+
+[ 2016-06-07T23:57:20+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000638s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000775s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002123s ]
+
+[ 2016-06-07T23:58:06+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001430s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000592s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000718s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002051s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002307s ]
+
+[ 2016-06-07T23:58:43+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000578s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000720s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001911s ]
+
+[ 2016-06-07T23:58:56+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003269s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000785s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000992s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001800s ]
+
+[ 2016-06-07T23:59:35+08:00 ] ::1 /ssChen/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\env\phpfile\ssChen\Application\Home\Controller\IndexController.class.php on line 82 and defined D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\env\phpfile\ssChen\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000967s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001772s ]
+

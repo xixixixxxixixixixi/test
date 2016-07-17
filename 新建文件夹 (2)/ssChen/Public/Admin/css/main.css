@@ -1,0 +1,38 @@
+@charset "utf-8";
+body {padding:0px;margin:0px;font-suze:12px; font-family:"宋体";}
+ul { list-style:none;padding:0px; margin:0px;}
+form {padding:0px; margin:0px;}
+a:link {color:#3b5999; text-decoration:none;}
+a:visited {color:#3b5999; text-decoration:none;}
+a:hover {color:#3b5999; text-decoration:underline;}
+a:active {color:#3b5999; text-decoration:none;}
+.container {padding:10px;}
+h1 {font-size:14px; line-height:35px;height:35px;padding-left:10px;margin:0px; border:#9cb8cc 1px solid;border-bottom:none;color:#1e325c;background-color:#d7e9f2;}
+.box th { background-color:#f2f4f6;font-size:12px;line-height:21px;}
+.box td { font-size:18px; line-height:34px;height:34px;}
+.box { background-color:#9cb8cc;width:100%; margin-bottom:5px;}
+.list { background-color:#FFF;}
+.list_on { background-color:#d7e9f2;}
+.btn {height:24px;width:80px;border:1px #FC6 solid;text-align:center;font-weight:bold; color:#f00;font-size:12px;cursor:pointer; background-color:#FFC}
+.page {font-size:12px;}
+.page a{font-size:12px; color:#000;text-decoration:none;}
+.page a:hover{font-size:12px; color:#f00;text-decoration:underline;}
+.page a.current{font-size:12px; color:#f00;text-decoration:none;}
+
+.red {color:#f00;}
+a.red {color:#f00;}
+
+#queue {margin:5px 0px;overflow:hidden;}
+#queue ul { margin:0px; padding:0px;}
+#queue p{ display:none}
+#queue ul li {float:left;margin-right:10px;border:#CCC 1px solid;height:60px;position:relative}
+#queue ul img {width:80px;height:60px;}
+#queue ul span {width:16px;height:16px;position:absolute;right:-8px;top:-8px;cursor:pointer;background:url(../images/delete.png);}
+
+
+.tab {}
+.tab ul { padding:0px; margin:0px;}
+.tab li { float:left; width:70px; background:url(../images/bg_sprit.png) no-repeat -70px 0px;height:29px; text-align:center; margin-right:5px; line-height:29px; font-size:12px;}
+.tab .current {background:url(../images/bg_sprit.png) no-repeat 0px 0px; font-weight:bold}
+
+

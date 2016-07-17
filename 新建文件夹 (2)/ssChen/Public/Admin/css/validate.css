@@ -1,0 +1,9 @@
+@charset "utf-8";
+p#vtip {position: absolute;padding:3px;left:5px; font-size:0.8em;background-color:white;border:1px solid #a6c9e2; -moz-border-radius: 5px; -webkit-border-radius: 5px; z-index:9999;}
+p#vtip #vtipArrow {position:absolute;top:10px;left:-11px }
+.input {border:1px solid #ccc; padding:3px;}
+.input_validation-failed {background-color:#fde59c; border:1px solid #FF0000}
+.onShow{ background:url(../images/onShow.gif) no-repeat; padding-left:20px; font-size: 12px;line-height:22px;}
+.onCorrect{background:url(../images/onCorrect.gif) no-repeat;padding-left:20px;font-size: 12px;line-height:22px; color:green;}
+.onError{background:url(../images/onError.gif) no-repeat;padding-left:20px;font-size: 12px;line-height:22px; color:red;}
+.onFocus{background:url(../images/onFocus.gif) no-repeat; padding-left:20px; font-size: 12px;line-height:22px; color:#007eed;}
